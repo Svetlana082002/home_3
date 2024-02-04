@@ -2,6 +2,9 @@
 
 ## Texts
 
++ ex. *text 1*
++ ex. **text2**
+
 ## Lists
 
 ## Working with images
