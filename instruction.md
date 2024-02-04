@@ -18,6 +18,9 @@ _another **text**_
 
 ## Working with images
 
+Adding images
+![Picture](picture1.jpeg "look the picture")
+
 ## Links
 
 ## Quotes
