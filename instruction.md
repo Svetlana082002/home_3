@@ -5,6 +5,15 @@
 + ex. *text 1*
 + ex. **text2**
 
+or 
+
++ _text 1_
++ __text 2__
+
+Alternative version ex.
+
+_another **text**_
+
 ## Lists
 
 ## Working with images
