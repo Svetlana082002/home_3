@@ -28,7 +28,9 @@ Numbered lists ex.
 
 ## Working with images
 
-If we want to add text to an image, we need to ![beautiful picture!](picture1.jpeg)
+If we want to add text to an image, we need to 
+
+![beautiful picture!](picture1.jpeg)
 
 ## Links
 
