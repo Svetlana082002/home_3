@@ -32,12 +32,15 @@ If we want to add text to an image, we need to ![beautiful picture!](picture1.jp
 
 ## Links
 
-if we want to write not numberes lists, we need to do (*)
+if we want to write not numberes lists, we need to do (*) ex.
 * list 1
 * list 2
+* list 3
 
- or not numbered lists ex.
+ not numbered lists ex.
  + list 1
+ + list 2
+ + list 3
 
 ## Quotes
 
