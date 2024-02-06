@@ -34,7 +34,7 @@ If we want to add text to an image, we need to
 
 ## Links
 
-To get familier with markdown take look at this link [(https://anvilproject.org/guides/content/creating-links)]
+if you want to be more informed about markdown take look at this link [(https://anvilproject.org/guides/content/creating-links)]
 
 ## Quotes
 
