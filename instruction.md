@@ -34,12 +34,7 @@ If we want to add text to an image, we need to
 
 ## Links
 
-if we want to write not numbered lists, we need to do (*) or (+)
-* list 1
-* list 2
-* list 3
- + list 4
- + list 5
+To get familier with markdown take look at this link [(https://anvilproject.org/guides/content/creating-links)]
 
 ## Quotes
 
