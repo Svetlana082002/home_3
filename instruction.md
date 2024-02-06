@@ -32,8 +32,11 @@ If we want to add text to an image, we need to ![beautiful picture!](picture1.jp
 
 ## Links
 
-if we want to write an uncountable list, we need to do (*)
+if we want to write not numberes list, we need to do (*)
 ## working with images
+
+ or not numbered ex.
+ + working with images
 
 ## Quotes
 
