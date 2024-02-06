@@ -34,7 +34,7 @@ If we want to add text to an image, we need to
 
 ## Links
 
-if we want to write not numberes lists, we need to do (*) or (+) ex.
+if we want to write not numbered lists, we need to do (*) or (+)
 * list 1
 * list 2
 * list 3
