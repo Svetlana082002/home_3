@@ -46,3 +46,4 @@ if you want to be more informed about markdown take look at this link [(https://
 
 ## Conclusion
 Git is a perfect tool for working with feature branch
+You can use Git for several purposes.
