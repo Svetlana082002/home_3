@@ -36,7 +36,7 @@ if we want to write not numberes lists, we need to do (*)
 * list 1
 * list 2
 
- or not numbered ex.
+ or not numbered lists ex.
  + list 1
 
 ## Quotes
