@@ -28,7 +28,11 @@ Numbered lists ex.
 
 ## Working with images
 
-If we want to add text to an image, we need to 
+if you want to attach a link to an image, do this
+
+[ https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg ](picture) 
+
+If you want to add text to an image, we need to 
 
 ![beautiful picture!](picture1.jpeg)
 
