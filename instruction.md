@@ -18,8 +18,7 @@ _another **text**_
 
 ## Working with images
 
-Adding images
-![Picture](picture1.jpeg "look the picture")
+If we want to add text to an image, we need to ![beautiful picture!](picture1.jpeg)
 
 ## Links
 
