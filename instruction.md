@@ -22,6 +22,9 @@ If we want to add text to an image, we need to ![beautiful picture!](picture1.jp
 
 ## Links
 
+if we want to write an uncountable list, we need to do (*)
+## working with images
+
 ## Quotes
 
 ## Working with spreadsheets
