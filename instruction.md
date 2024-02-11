@@ -47,4 +47,8 @@ I think it's a good practice to use Git.
 
 You can use Git for several purposes.
 
-# New changes in the file
+## New changes
+
+1. New changes in the file on git
+
+2. The continuation of the file modification is already on github
