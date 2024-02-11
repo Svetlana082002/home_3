@@ -28,10 +28,6 @@ Numbered lists ex.
 
 ## Working with images
 
-if you want to attach a link to an image, do this
-
-[ https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg ](picture) 
-
 If you want to add text to an image, we need to 
 
 ![beautiful picture!](picture1.jpeg)
@@ -45,6 +41,8 @@ if you want to be more informed about markdown take look at this link [(https://
 ## Working with spreadsheets
 
 ## Conclusion
-Git is a perfect tool for working with feature branch
-I think it's a good practice to use Git
+Git is a perfect tool for working with feature branch.
+
+I think it's a good practice to use Git.
+
 You can use Git for several purposes.
